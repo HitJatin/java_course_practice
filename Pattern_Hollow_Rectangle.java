@@ -1,10 +1,9 @@
 public class Pattern_Hollow_Rectangle {
     /**
-     * Print the Pattern 
-     *  *****
-     *  *****
-     *  *****
-     *  *****
+     *     *****
+     *     *   *
+     *     *   *
+     *     *****
      */
     public static void main(String[] args) {
         int m=4,n=5;
