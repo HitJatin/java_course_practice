@@ -1,4 +1,4 @@
-public class Pattern_ButterFly_Pattern {
+public class Pattern_ButterFly {
     /**
      * Print the Pattern 
      *      *      *
