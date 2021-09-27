@@ -14,11 +14,14 @@ public class Pattern_Pascal_Triangle {
                 System.out.print(" ");
             }
             for (int j = 0; j <= i; j++) {
-                int pascalNumber=factorial(i)/(factorial(i-j)*factorial(j));
+                int pascalNumber=combination(i, j);
                 System.out.print(pascalNumber+" ");
             }
             System.out.println();
         }
+    }
+    public static int combination(int n, int r){
+        return factorial(n)/(factorial(n-r)*factorial(r));
     }
     public static int factorial(int num){
         if(num==0 || num==1)
