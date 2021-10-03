@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Floyd_Triangle {
     /**
      * Print the Pattern 

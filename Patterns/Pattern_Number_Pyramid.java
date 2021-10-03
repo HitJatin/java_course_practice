@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Number_Pyramid {
     /**
      * Print the Pattern 

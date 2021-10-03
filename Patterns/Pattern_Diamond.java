@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Diamond {
     /**
      * Print the Pattern 

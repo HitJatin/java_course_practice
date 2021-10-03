@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Inverted_Half_Pyramid_Numbers_Type2 {
     /**
      * Print the Pattern 

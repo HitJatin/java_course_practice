@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Half_Pyramid_Numbers {
     /**
      * Print the Pattern 

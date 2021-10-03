@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Solid_Rectangle {
     /**
      * Print the Pattern 

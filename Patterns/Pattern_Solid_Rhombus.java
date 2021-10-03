@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Solid_Rhombus {
     /**
      * Print the Pattern 

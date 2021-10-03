@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern_Hollow_ButterFly {
     /**
      * Print the Pattern 
