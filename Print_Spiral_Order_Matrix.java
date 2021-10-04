@@ -5,7 +5,7 @@ public class Print_Spiral_Order_Matrix {
     private static int[][] matrix;
 
     public static void main(String[] args) {
-        System.out.println("Spiral order of a Matrix\n");
+        System.out.println("\nSpiral order of a Matrix\n");
         takeInput();
         printMatrix();
         printSpiralOrder();
